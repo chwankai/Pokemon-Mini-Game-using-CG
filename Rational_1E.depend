@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1749483508 source:c:\users\kaika\iclouddrive\documents\university\bai third sem\computer graphics\project\3.program1e-rational\cglab11utils\cgimageloader.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/glut.h>
+	<iostream>
+	"CGimageloader.hpp"
+
+1749483508 c:\users\kaika\iclouddrive\documents\university\bai third sem\computer graphics\project\3.program1e-rational\cglab11utils\cgimageloader.hpp
+	<string>
+	"jpeglib.h"
+	<setjmp.h>
+
+1749483508 c:\users\kaika\iclouddrive\documents\university\bai third sem\computer graphics\project\3.program1e-rational\cglab11utils\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1749483508 c:\users\kaika\iclouddrive\documents\university\bai third sem\computer graphics\project\3.program1e-rational\cglab11utils\jconfig.h
+	<windows.h>
+
+1749483508 c:\users\kaika\iclouddrive\documents\university\bai third sem\computer graphics\project\3.program1e-rational\cglab11utils\jmorecfg.h
+
+1749637177 source:c:\users\kaika\iclouddrive\documents\university\bai third sem\computer graphics\project\3.program1e-rational\projectmain.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"ProjectMain.hpp"
+
+1749637358 c:\users\kaika\iclouddrive\documents\university\bai third sem\computer graphics\project\3.program1e-rational\projectmain.hpp
+	"RationalMain.hpp"
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"CGimageloader.hpp"
+
+1749553567 c:\users\kaika\iclouddrive\documents\university\bai third sem\computer graphics\project\3.program1e-rational\rationalmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
